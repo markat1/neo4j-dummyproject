@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="DataSourceManagerImpl" format="xml" hash="2241475660">
+  <component name="DataSourceManagerImpl" format="xml" hash="603077446">
     <data-source source="LOCAL" name="Rails neo4j-dummyproject: development" uuid="83ac0be3-32dd-4909-99df-4fec07407b9c">
       <driver-ref>postgresql</driver-ref>
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
